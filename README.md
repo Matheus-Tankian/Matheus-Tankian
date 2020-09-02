@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Matheus
-<br/>
-Hi there, I'm **Matheus Cruz** a **Mobile Developer** and **Web Developer** 🚀 from Brasil, currently, I'm a student of Computer Science at the Federal Institute of Maranhão 📱💻,
 
+Hi there, I'm **Matheus Cruz** a **Mobile Developer and Web Developer** 🚀 from Brasil, currently, I'm a student of Computer Science at the Federal Institute of Maranhão 📱💻.
 <!--
 **Matheus-Tankian/Matheus-Tankian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
