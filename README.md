@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href = "https://github.com/Matheus-Tankian?tab=repositories">
+    <img aling = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-tankian&layout=compact" width = "400">
+  </a>
+</div>
+
