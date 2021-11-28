@@ -1,4 +1,14 @@
 ### Hi 👋, I'm Matheus
+<pre>
+----------------------------------------
+<span>### Hi 👋, I'm Matheus</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
 
 Hi there, I'm **Matheus Cruz** a **Mobile Developer** and **Web Developer** 🚀 from Brasil, currently, I'm a student of Computer Science at the Federal Institute of Maranhão 📱💻.
 <!--
