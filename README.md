@@ -55,6 +55,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-![Matheus-tankian github starts](https://github-readme-stats.vercel.app/api?username=matheus-tankian&show_icons=true&hide_border=true)
-
 ⭐️ Thanks for the visit!
